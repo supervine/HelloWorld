@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306633648268",
+    "project_id": "testproject-2732834",
+    "storage_bucket": "testproject-2732834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306633648268:android:c043af1197c212f438f3a9",
+        "android_client_info": {
+          "package_name": "com.dimovsoft.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306633648268-m5ql74drs1h6ufubm7ibpsjencm8ucdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGDE582yBTmR_JN49DURVTJJZuan6I2x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306633648268-m5ql74drs1h6ufubm7ibpsjencm8ucdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
